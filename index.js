@@ -37,10 +37,11 @@
 // }
 // 04 Determine the factorial of a user-input number 'n'.
 // ex.(3*2*1=6)
-let i;
-let n=3;
-for(i=0;i<=i;i++)
-{
-    sum=NamedNodeMap*i;
-}
-console.log(sum);
+// let i;
+// let n=3;
+// let sum=1;
+// for(i=n; i>=1;i--)
+// {
+//     sum *= i;
+// }
+// console.log(sum);
